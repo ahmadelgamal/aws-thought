@@ -1,3 +1,5 @@
+// an S3 bucket is used to store data, such as static files
+
 // load the AWS SDK for Node.js
 const AWS = require("aws-sdk");
 
